@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l iacta | head -n3
+wc -l iacta | head -2
